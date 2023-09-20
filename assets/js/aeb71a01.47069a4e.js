@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkayurveda=self.webpackChunkayurveda||[]).push([[5910],{9599:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/ayurveda/blog/tags/facebook","allTagsPath":"/ayurveda/blog/tags","count":1}')}}]);

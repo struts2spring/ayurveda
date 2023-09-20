@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkayurveda=self.webpackChunkayurveda||[]).push([[9372],{6234:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/ayurveda/blog/tags/docusaurus","allTagsPath":"/ayurveda/blog/tags","count":4}')}}]);
